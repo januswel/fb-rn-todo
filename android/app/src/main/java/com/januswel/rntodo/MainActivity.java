@@ -1,4 +1,4 @@
-package com.rntodo;
+package com.januswel.rntodo;
 
 import com.facebook.react.ReactActivity;
 
