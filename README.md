@@ -3,6 +3,13 @@ fb-rn-todo
 
 todo app with FireBase Realtime Database on React Native
 
+Screenshots
+-----------
+
+![add](https://raw.githubusercontent.com/januswel/fb-rn-todo/images/images/add.gif)
+![upd](https://raw.githubusercontent.com/januswel/fb-rn-todo/images/images/upd.gif)
+![del](https://raw.githubusercontent.com/januswel/fb-rn-todo/images/images/del.gif)
+
 Usage
 -----
 
