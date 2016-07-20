@@ -6,8 +6,16 @@ todo app with FireBase Realtime Database on React Native
 Screenshots
 -----------
 
+### add
+
 ![add](https://raw.githubusercontent.com/januswel/fb-rn-todo/images/images/add.gif)
+
+### update
+
 ![upd](https://raw.githubusercontent.com/januswel/fb-rn-todo/images/images/upd.gif)
+
+### delete
+
 ![del](https://raw.githubusercontent.com/januswel/fb-rn-todo/images/images/del.gif)
 
 Usage
