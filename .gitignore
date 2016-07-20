@@ -42,3 +42,6 @@ android/keystores/debug.keystore
 
 # react-native-config
 .env
+
+# keystore
+*.keystore
